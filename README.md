@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @V1h4An
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning
+- C/C++
+- Java
 - 📫 How to reach me Vihaanmishra05@gmail.com
 
 <!---
