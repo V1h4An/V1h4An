@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @V1844N
 - 🌱 I’m currently learning
-- C/C++
+- C
 - Java
+- Python
 - 📫 How to reach me Vihaanmishra05@gmail.com
 
 <!---
